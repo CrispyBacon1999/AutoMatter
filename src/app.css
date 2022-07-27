@@ -1,0 +1,13 @@
+body {
+    background-color: #ffffff;
+    padding: 0;
+    margin: 0;
+}
+
+.pointHandle {
+    background-color: #333399;
+    width: 10px;
+    height: 10px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
